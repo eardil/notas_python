@@ -1,0 +1,5 @@
+funciones que reciban un párrafo y regresen:
+* porcentaje de preposiciones
+* longitud promedio de palabra
+* promedio de palabras por oración
+* número de signos de puntuación por párrafo
